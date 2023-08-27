@@ -1,0 +1,26 @@
+body {
+    background-color:hsla(0,100%,50%,0.5);
+}
+
+.box {
+    border: solid 3px blueviolet;
+    background-color: aliceblue;
+    height: 1300px;
+    width: 1300px;
+    margin-left: 270px;
+}
+
+.text {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 150px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.maintext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
