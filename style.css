@@ -5,7 +5,6 @@ body {
 .box {
     border: solid 3px blueviolet;
     background-color: aliceblue;
-    height: 1300px;
     width: 1300px;
     margin-left: 270px;
 }
